@@ -2,24 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: '<i>"Everything is hard at first, everything is easy eventually."</i>'
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Should probably get my picture taken at some point but until then enjoy this image of someone who is just like me.</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+(If you're looking for less fluff, click on the projects tab or something idk)
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I typically don't have too much to say about myself, but I guess since I'm here: I'm a full stack developer with almost 15 years of hobbyist experience at this point. First starting out with Python, I've since branched out into way, way too many technologies to count. These days, Java is my language of choice but I'm very comfortable with frontend technologies, along with JavaScript/TypeScript.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Also I'm Quite a good problem solver, can't lie.
+
+I first got my feet wet in commercial software development at Softwire in 2017, I probably go into detail about that somewhere on this website I'm sure. But a fun fact is that I was Softwire's youngest employee ever at the time. Funner fact is that my first contact with Softwire was actually for work experience in 2015 I think, where I was actually supposed to be there for marketing or something? Unsure how that happened but I ended up speaking to a senior developer, showed off a little, and then they asked if I wanted to try my hand at software development instead. From there I've had all sorts of revelations about how different commercial software development is from doing it as a hobby, and I've learnt a whole lot about the kinds of skills I need to cultivate to be successful in this field. Cue several years of self study of cyber security, DevOps, software architecture, all in the name of becoming a fully-packaged developer.
+
+And I think I got pretty good.
+
+At this point I probably don't have too many personal projects on here, building large projects alone doesn't typically align with my style of learning. But whenever something crosses over from reasonable interest to passion project, I'll be sure to add it here.
