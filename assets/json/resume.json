@@ -54,60 +54,25 @@
       "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Java",
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "TypeScript",
-        "Python",
-        "SQL",
-        "PHP",
-        "C# (via Unity)",
-        "Haskell (Learning)"
-      ]
+      "keywords": ["Java", "HTML", "CSS", "JavaScript", "TypeScript", "Python", "SQL", "PHP", "C# (via Unity)", "Haskell (Learning)"]
     },
     {
       "name": "Frameworks and Libraries",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Spring",
-        "JUnit",
-        "Node.js",
-        "Express.js",
-        "Angular",
-        "React",
-        "Bootstrap",
-        "Sass"
-      ]
+      "keywords": ["Spring", "JUnit", "Node.js", "Express.js", "Angular", "React", "Bootstrap", "Sass"]
     },
     {
       "name": "Tools",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Git",
-        "AWS",
-        "Maven",
-        "Gradle",
-        "WordPress",
-        "MySQL",
-        "Linux command line (A little)",
-        "Jenkins (Learning)",
-        "Docker (Learning)"
-      ]
+      "keywords": ["Git", "AWS", "Maven", "Gradle", "WordPress", "MySQL", "Linux command line (A little)", "Jenkins (Learning)", "Docker (Learning)"]
     },
     {
       "name": "Other",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Analysis and Planning",
-        "Absurd analogies",
-        "Games",
-        "Learning new skills"
-      ]
+      "keywords": ["Analysis and Planning", "Absurd analogies", "Games", "Learning new skills"]
     }
   ],
   "languages": [
@@ -126,44 +91,22 @@
     {
       "name": "Media Genres",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Peak fiction",
-        "Adventure",
-        "Mystery"
-      ]
+      "keywords": ["Peak fiction", "Adventure", "Mystery"]
     },
     {
       "name": "Gaming",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Fighting",
-        "Platformer",
-        "Roguelike"
-      ]
+      "keywords": ["Fighting", "Platformer", "Roguelike"]
     },
     {
       "name": "Other",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Baking desserts",
-        "Fantasy power systems",
-        "World building",
-        "Pen spinning",
-        "Art",
-        "Game design"
-      ]
+      "keywords": ["Baking desserts", "Fantasy power systems", "World building", "Pen spinning", "Art", "Game design"]
     },
     {
       "name": "Things to Learn",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Piano",
-        "Violin",
-        "World building",
-        "Kendo",
-        "Game Dev",
-        "Japanese"
-      ]
+      "keywords": ["Piano", "Violin", "World building", "Kendo", "Game Dev", "Japanese"]
     }
   ]
 }
