@@ -2,7 +2,7 @@
 layout: page
 title: Memo Maker
 description: Core Java CLI application that lets me quickly make memos in text file format. Still updated here and there whenever I have a feature to add.
-img: 
+img:
 importance: 1
 category: fun
 ---
@@ -72,5 +72,5 @@ public class MemoConfig {
 
 The coolest bit (to me anyway). Uses the ofNullable to let the program act depending on the environment it's run in.
 
-The shell for the GPT integration has been written and exists in the repo but is not included here but will be soon (when I get around to setting up billing with OpenAI). 
+The shell for the GPT integration has been written and exists in the repo but is not included here but will be soon (when I get around to setting up billing with OpenAI).
 Docker integration also coming soon since I hear that is a little more convenient that carrying a jar around, and I just learnt how to use Docker (as of February 2024) so might as well.

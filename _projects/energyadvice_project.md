@@ -11,7 +11,6 @@ Technologies: HTML, CSS, TypeScript, Node, Angular, SQL, PHP, Mocha
 
 Previously hosted over at <a href="https://www.simpleenergyadvice.org.uk/">https://www.simpleenergyadvice.org.uk/</a> but that now redirects elsewhere, so I recommend using <a href="https://archive.org/web/">https://archive.org/web/</a> if you'd like to look around.
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/energyadvice/energyadvice1.png" title="energy advice website image" class="img-fluid rounded z-depth-1" %}
