@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: '<i>"Well, I guess I'll make a portfolio."</i>'
+subtitle: '<i>"Well, I guess I′ll make a portfolio."</i>'
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
